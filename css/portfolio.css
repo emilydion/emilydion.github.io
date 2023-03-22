@@ -592,6 +592,30 @@ footer {
 	}
 }
 
+@media screen and (max-width: 1012px) {
+	/*Graphic Design Page Content */
+	.design-block {
+		flex-direction: column; 
+		justify-content: center; 
+		margin-bottom: 0px; 
+		width: 100%; 
+	}
+	
+	.design-image {
+		padding-right: 0px; 
+		width: 100%; 
+	}
+	
+	.design-block img{
+		margin-right: 0px; 
+		max-height: none; 
+		width: 100%; 
+		height: auto; 
+	}	
+	
+	
+}
+
 @media screen and (max-width: 960px) {
 	/* Graphic Design Page Content */
 	.design-block img {
