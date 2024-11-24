@@ -869,7 +869,7 @@ footer {
 	
 	/* About Me Page Content */	
 	.main-content.about {
-		padding-top: 500px; 
+		padding-top: 3rem; 
 		height: auto; 
 	}
 	
@@ -909,8 +909,6 @@ footer {
 @media screen and (max-width: 667px) {
 	/* About Me Page Content */
 	.circles {
-		height: 300px; 
-		width: 60%; 
 		padding-bottom: 0px; 
 	}
 }
